@@ -1,0 +1,26 @@
+Create git repository (ABC)
+Create Folder in any drive.(xyz)
+Inside that folder open "cmd " [Xyz)
+command - git clone (repository path)  (creates local repository created inside folder (xyz) )
+copy docker files in ABC
+XyZ »> ABC -> open and here.
+Check git status 
+git add . 
+git commit -m "xyz" (Any name)
+git push
+[All Files pushed to github repository]
+
+
+Create remote machine using putty
+Sudo apt install 
+sudo apt update 
+sudo apt docker.io 
+git clone (repo. path)
+check ls
+cd (repository name )
+sudo docker build -t xyz .
+sudo docker images
+sudo docker run -d -p 7667: 7667 XYZ
+sudo docker ps
+copy ip address
+ip address : 7667 > In new browser window
